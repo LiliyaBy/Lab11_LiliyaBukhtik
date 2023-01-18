@@ -1,0 +1,17 @@
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\bin\Debug\net6.0\Lab11_LiliyaBuhktik.exe
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\bin\Debug\net6.0\Lab11_LiliyaBuhktik.deps.json
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\bin\Debug\net6.0\Lab11_LiliyaBuhktik.runtimeconfig.json
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\bin\Debug\net6.0\Lab11_LiliyaBuhktik.dll
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\bin\Debug\net6.0\Lab11_LiliyaBuhktik.pdb
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.csproj.CopyComplete
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.dll
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\refint\Lab11_LiliyaBuhktik.dll
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.pdb
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\Lab11_LiliyaBuhktik.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projects\Lab11_LiliyaBuhktik\Lab11_LiliyaBuhktik\obj\Debug\net6.0\ref\Lab11_LiliyaBuhktik.dll
